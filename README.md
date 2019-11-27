@@ -1,2 +1,2 @@
 # git-tutorial-test
-Nice
+Version 1
